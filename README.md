@@ -14,8 +14,8 @@ This Streamlit web app predicts retail item sales using machine learning. It use
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/retail-sales-predictor.git
-cd retail-sales-predictor
+git clone https://github.com/VedantSN/Data_Mart-Sales.git
+cd Data_Mart-Sales
 ```
 
 ### 2. Install required packages:
